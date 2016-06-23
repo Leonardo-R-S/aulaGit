@@ -1,10 +1,8 @@
-#O conteúdo deste repositório baseia-se no curso de Github mestrado pela Shool of Net.
+###O conteúdo deste repositório baseia-se no curso de Github mestrado pela Shool of Net.
 
 Principais praticas apresentadas.
 
 1. Como instalar e configurar
-
-Criando repositorio
 
 2. Como fazer commit e como ignorar arquivos
 
