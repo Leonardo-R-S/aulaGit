@@ -10,7 +10,8 @@ Principais praticas apresentadas.
 
 4. Como gerenciar meus branch
 
-5. Como criar repositório
+5. Github
+    * Como criar repositório
     * Como dar um push
     * Como clonar
     * Como dar um pull
